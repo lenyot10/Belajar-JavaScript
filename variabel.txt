@@ -1,0 +1,7 @@
+//VARIABEL
+
+VAR nama = "abdul aziz";
+
+console.log(nama)
+
+console.lo(nama, length);
